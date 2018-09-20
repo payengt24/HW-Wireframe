@@ -67,10 +67,8 @@ article {
     left: -30px;
     top: -30px;
     padding: 5px;
-    
     background-color: gray;
     margin: 50px;
-    /* padding: 10px; */
     height: 220px;
     width: 90%;
 }
@@ -83,7 +81,6 @@ article {
     position: relative;
     bottom: -10px;
     left: 5px;
-
     background-color: whitesmoke;
     width: 98%;
     height: 60px;
