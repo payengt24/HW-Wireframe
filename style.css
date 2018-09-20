@@ -4,16 +4,12 @@ body{
 
 
 .container {
-    /* background-color: pink; */
-    /* padding: 10px; */
     margin-bottom: 100px;
     margin-left: 250px;
     margin-right: 150px;
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     width: 960px;
     font-size: 18px;
-   
-
 }
 
 .topCenterTitle {
@@ -50,9 +46,7 @@ aside {
     bottom: -15px;
     background-color: whitesmoke;
     width: 50%;
-    height: 300px;
-
-
+    height: 300px;  
 }
 
 footer {
@@ -87,5 +81,4 @@ article {
     background-color: whitesmoke;
     width: 98%;
     height: 60px;
-
 }
