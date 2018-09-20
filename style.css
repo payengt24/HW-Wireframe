@@ -1,0 +1,91 @@
+body{
+    background-color: gray;
+}
+
+
+.container {
+    /* background-color: pink; */
+    padding: 10px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+   
+
+}
+
+.topCenterTitle {
+    text-align: center;
+    color: grey;  
+}
+
+.centerTitle{
+    text-align: center;
+    /* vertical-align: middle; */
+    position: relative;
+    top: 50%; 
+    color: grey;  
+}
+
+header, nav {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 80px;
+}
+
+section {
+    float: left;
+    position: relative;
+    bottom: -15px;
+    background-color: whitesmoke;
+    width: 48%;
+    height: 300px;
+}
+
+aside {
+    float: right;
+    position: relative;
+    bottom: -15px;
+    background-color: whitesmoke;
+    width: 50%;
+    height: 300px;
+
+
+}
+
+footer {
+    position: 0;
+    position: relative;
+    bottom: -35px;
+    background-color: whitesmoke;
+    width: 100%;
+    height: 80px;
+    clear: both; 
+}
+
+article {
+    position: relative;
+    left: -30px;
+    top: -30px;
+    padding: 5px;
+    
+    background-color: gray;
+    margin: 50px;
+    /* padding: 10px; */
+    height: 220px;
+    width: 90%;
+}
+
+.articalColor{
+    color: white;
+}
+
+.insideArticle {
+    position: relative;
+    bottom: -10px;
+    left: 5px;
+
+    background-color: whitesmoke;
+    width: 98%;
+    height: 60px;
+
+}
